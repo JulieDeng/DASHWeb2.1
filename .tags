@@ -1,0 +1,396 @@
+mobileNav	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function mobileNav() {$/;"	function	line:7
+mobileNav	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function mobileNav() {$/;"	function	line:7
+smoothScroll	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function smoothScroll (duration) {$/;"	function	line:16
+smoothScroll	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function smoothScroll (duration) {$/;"	function	line:16
+designBGStuff	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function designBGStuff() {$/;"	function	line:30
+designBGStuff	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function designBGStuff() {$/;"	function	line:30
+articleTada	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function articleTada(){$/;"	function	line:41
+articleTada	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function articleTada(){$/;"	function	line:41
+mentoringBubbleClick	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function mentoringBubbleClick() {$/;"	function	line:47
+mentoringBubbleClick	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function mentoringBubbleClick() {$/;"	function	line:47
+youtubeVidScroll	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function youtubeVidScroll() {$/;"	function	line:82
+youtubeVidScroll	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function youtubeVidScroll() {$/;"	function	line:82
+startArticles	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function startArticles(){$/;"	function	line:89
+setTimeout	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^            setTimeout(function(){$/;"	function	line:94
+startArticles	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function startArticles(){$/;"	function	line:89
+startMentoring	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function startMentoring() {$/;"	function	line:101
+setTimeout	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^                setTimeout(function(){$/;"	function	line:109
+startMentoring	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function startMentoring() {$/;"	function	line:101
+mentoringNarrowStart	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function mentoringNarrowStart() {$/;"	function	line:120
+mentoringNarrowStart	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function mentoringNarrowStart() {$/;"	function	line:120
+mentoringWideStart	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function mentoringWideStart() {$/;"	function	line:129
+mentoringWideStart	/Applications/MAMP/htdocs/Web2.1/js/functions.js	/^function mentoringWideStart() {$/;"	function	line:129
+html	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^html {$/;"	function	line:8
+body	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^body {$/;"	function	line:19
+article	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^article,$/;"	function	line:30
+aside	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^aside,$/;"	function	line:31
+details	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^details,$/;"	function	line:32
+figcaption	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^figcaption,$/;"	function	line:33
+figure	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^figure,$/;"	function	line:34
+footer	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^footer,$/;"	function	line:35
+header	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^header,$/;"	function	line:36
+hgroup	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^hgroup,$/;"	function	line:37
+main	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^main,$/;"	function	line:38
+menu	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^menu,$/;"	function	line:39
+nav	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^nav,$/;"	function	line:40
+section	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^section,$/;"	function	line:41
+summary	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^summary {$/;"	function	line:42
+audio	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^audio,$/;"	function	line:49
+canvas	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^canvas,$/;"	function	line:50
+progress	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^progress,$/;"	function	line:51
+video	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^video {$/;"	function	line:52
+audio:not([controls])	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^audio:not([controls]) {$/;"	function	line:62
+[hidden]	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^[hidden],$/;"	function	line:70
+template	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^template {$/;"	function	line:71
+a	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^a {$/;"	function	line:79
+a:active	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^a:active,$/;"	function	line:85
+a:hover	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^a:hover {$/;"	function	line:86
+abbr[title]	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^abbr[title] {$/;"	function	line:94
+b	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^b,$/;"	function	line:100
+strong	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^strong {$/;"	function	line:101
+dfn	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^dfn {$/;"	function	line:107
+h1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^h1 {$/;"	function	line:114
+mark	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^mark {$/;"	function	line:121
+small	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^small {$/;"	function	line:128
+sub	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^sub,$/;"	function	line:134
+sup	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^sup {$/;"	function	line:135
+sup	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^sup {$/;"	function	line:141
+sub	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^sub {$/;"	function	line:144
+img	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^img {$/;"	function	line:152
+svg:not(:root)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^svg:not(:root) {$/;"	function	line:158
+figure	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^figure {$/;"	function	line:166
+hr	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^hr {$/;"	function	line:172
+pre	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^pre {$/;"	function	line:179
+code	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^code,$/;"	function	line:185
+kbd	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^kbd,$/;"	function	line:186
+pre	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^pre,$/;"	function	line:187
+samp	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^samp {$/;"	function	line:188
+button	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^button,$/;"	function	line:204
+input	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input,$/;"	function	line:205
+optgroup	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^optgroup,$/;"	function	line:206
+select	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^select,$/;"	function	line:207
+textarea	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^textarea {$/;"	function	line:208
+button	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^button {$/;"	function	line:219
+button	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^button,$/;"	function	line:228
+select	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^select {$/;"	function	line:229
+button	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^button,$/;"	function	line:239
+html input[type="button"]	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^html input[type="button"],$/;"	function	line:240
+input[type="reset"]	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input[type="reset"],$/;"	function	line:241
+input[type="submit"]	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input[type="submit"] {$/;"	function	line:242
+button[disabled]	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^button[disabled],$/;"	function	line:251
+html input[disabled]	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^html input[disabled] {$/;"	function	line:252
+button::-moz-focus-inner	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^button::-moz-focus-inner,$/;"	function	line:258
+input::-moz-focus-inner	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input::-moz-focus-inner {$/;"	function	line:259
+input	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input {$/;"	function	line:267
+input[type="checkbox"]	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input[type="checkbox"],$/;"	function	line:277
+input[type="radio"]	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input[type="radio"] {$/;"	function	line:278
+input[type="number"]::-webkit-inner-spin-button	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input[type="number"]::-webkit-inner-spin-button,$/;"	function	line:289
+input[type="number"]::-webkit-outer-spin-button	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input[type="number"]::-webkit-outer-spin-button {$/;"	function	line:290
+input[type="search"]	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input[type="search"] {$/;"	function	line:298
+input[type="search"]::-webkit-search-cancel-button	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input[type="search"]::-webkit-search-cancel-button,$/;"	function	line:309
+input[type="search"]::-webkit-search-decoration	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^input[type="search"]::-webkit-search-decoration {$/;"	function	line:310
+fieldset	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^fieldset {$/;"	function	line:316
+legend	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^legend {$/;"	function	line:325
+textarea	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^textarea {$/;"	function	line:334
+optgroup	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^optgroup {$/;"	function	line:341
+table	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^table {$/;"	function	line:349
+td	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^td,$/;"	function	line:353
+th	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^th {$/;"	function	line:354
+@font-face	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^@font-face {$/;"	function	line:357
+[data-icon]:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^[data-icon]:before {$/;"	function	line:364
+[class*="icon-"]:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^[class*="icon-"]:before {$/;"	function	line:375
+.icon-tn-logo:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-tn-logo:before {$/;"	function	line:385
+.icon-arrow-right:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-arrow-right:before {$/;"	function	line:388
+.icon-arrow-left:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-arrow-left:before {$/;"	function	line:391
+.icon-caret-left:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-caret-left:before {$/;"	function	line:394
+.icon-quotes-left:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-quotes-left:before {$/;"	function	line:397
+.icon-envelope:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-envelope:before {$/;"	function	line:400
+.icon-envelope-alt:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-envelope-alt:before {$/;"	function	line:403
+.icon-twitter:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-twitter:before {$/;"	function	line:406
+.icon-facebook:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-facebook:before {$/;"	function	line:409
+.icon-linkedin:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-linkedin:before {$/;"	function	line:412
+.icon-dribbble:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-dribbble:before {$/;"	function	line:415
+.icon-behance:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-behance:before {$/;"	function	line:418
+.icon-google-plus:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-google-plus:before {$/;"	function	line:421
+.icon-github:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-github:before {$/;"	function	line:424
+.icon-github-2:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-github-2:before {$/;"	function	line:427
+.icon-pinterest:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-pinterest:before {$/;"	function	line:430
+.icon-instagram:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-instagram:before {$/;"	function	line:433
+.icon-github-3:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-github-3:before {$/;"	function	line:436
+.icon-feed:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-feed:before {$/;"	function	line:439
+.icon-ok:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-ok:before {$/;"	function	line:442
+.icon-remove:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-remove:before {$/;"	function	line:445
+.icon-reply:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-reply:before {$/;"	function	line:448
+.icon-happy:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.icon-happy:before {$/;"	function	line:451
+.gigantic, .huge, .large, .bigger, .big	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.gigantic, .huge, .large, .bigger, .big,$/;"	function	line:454
+h1, h2, h3, h4, h5, h6	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^h1, h2, h3, h4, h5, h6 {$/;"	function	line:455
+.gigantic	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.gigantic {$/;"	function	line:459
+.huge, h1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.huge, h1 {$/;"	function	line:464
+.large, h2	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.large, h2 {$/;"	function	line:469
+.bigger, h3	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.bigger, h3 {$/;"	function	line:473
+.big, h4	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.big, h4 {$/;"	function	line:477
+.small, small	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.small, small {$/;"	function	line:481
+p	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^p {$/;"	function	line:485
+em	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^em {$/;"	function	line:488
+strong	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^strong {$/;"	function	line:491
+hr	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^hr {$/;"	function	line:494
+a	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^a {$/;"	function	line:501
+a:hover, a:focus	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^a:hover, a:focus {$/;"	function	line:506
+::-moz-selection	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^::-moz-selection {$/;"	function	line:509
+::selection	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^::selection {$/;"	function	line:512
+::-moz-selection	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^::-moz-selection {$/;"	function	line:515
+img::-moz-selection	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^img::-moz-selection {$/;"	function	line:518
+img::selection	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^img::selection {$/;"	function	line:521
+img::-moz-selection	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^img::-moz-selection {$/;"	function	line:524
+body	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^body {$/;"	function	line:527
+html	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^html,$/;"	function	line:530
+body	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^body {$/;"	function	line:531
+body	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^body {$/;"	function	line:534
+.home-cta	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.home-cta {$/;"	function	line:543
+.home-cta:hover	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-cta:hover {$/;"	function	line:553
+nav.tn-nav-wrap	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^nav.tn-nav-wrap {$/;"	function	line:556
+.logo-small	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.logo-small {$/;"	function	line:566
+.title-string	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.title-string {$/;"	function	line:578
+.title-string:hover	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .title-string:hover {$/;"	function	line:594
+.title-string:hover p.blurb	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .title-string:hover p.blurb {$/;"	function	line:598
+.title-string p	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .title-string p {$/;"	function	line:600
+.title-string p.back-message	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .title-string p.back-message {$/;"	function	line:610
+.title-string p.back-message .icon-reply	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      .title-string p.back-message .icon-reply {$/;"	function	line:614
+.next-prev-btn	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.next-prev-btn {$/;"	function	line:617
+.next-prev-btn li	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .next-prev-btn li {$/;"	function	line:625
+.next-prev-btn li a	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .next-prev-btn li a {$/;"	function	line:628
+.next-prev-btn li a:hover	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      .next-prev-btn li a:hover {$/;"	function	line:637
+.next-prev-btn li a:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      .next-prev-btn li a:before {$/;"	function	line:639
+.prev-post-link a:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.prev-post-link a:before {$/;"	function	line:649
+.prev-post-link a:before:hover	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .prev-post-link a:before:hover {$/;"	function	line:651
+.next-post-link a:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.next-post-link a:before {$/;"	function	line:654
+.next-post-link a:before:hover	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .next-post-link a:before:hover {$/;"	function	line:656
+.next-prev-btn a:hover	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.next-prev-btn a:hover {$/;"	function	line:659
+.home-wrap header	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.home-wrap header {$/;"	function	line:662
+.home-wrap header .header-position	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap header .header-position {$/;"	function	line:666
+.home-wrap header .site-nav	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap header .site-nav {$/;"	function	line:685
+.home-wrap header a	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap header a {$/;"	function	line:687
+.home-wrap header a:hover, .home-wrap header a:active	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header a:hover, .home-wrap header a:active {$/;"	function	line:690
+.home-wrap header .logo	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap header .logo {$/;"	function	line:692
+.home-wrap header .site-nav ul	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap header .site-nav ul {$/;"	function	line:704
+.home-wrap header .site-nav li	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap header .site-nav li {$/;"	function	line:709
+.home-wrap header .site-nav li:last-child	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .site-nav li:last-child {$/;"	function	line:711
+.home-wrap header .email-link	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap header .email-link {$/;"	function	line:713
+.home-wrap header .mobile-nav-toggle	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap header .mobile-nav-toggle {$/;"	function	line:717
+.home-wrap header .mobile-nav-toggle:selection	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle:selection {$/;"	function	line:728
+.home-wrap header .mobile-nav-toggle:-moz-selection	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle:-moz-selection {$/;"	function	line:730
+.home-wrap header .mobile-nav-toggle span	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle span,$/;"	function	line:732
+.home-wrap header .mobile-nav-toggle span:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle span:before,$/;"	function	line:733
+.home-wrap header .mobile-nav-toggle span:after	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle span:after {$/;"	function	line:734
+.home-wrap header .mobile-nav-toggle span:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle span:before {$/;"	function	line:743
+.home-wrap header .mobile-nav-toggle span:after	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle span:after {$/;"	function	line:745
+.home-wrap header .mobile-nav-toggle.is-open span	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle.is-open span {$/;"	function	line:747
+.home-wrap header .mobile-nav-toggle.is-open span:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle.is-open span:before,$/;"	function	line:749
+.home-wrap header .mobile-nav-toggle.is-open span:after	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle.is-open span:after {$/;"	function	line:750
+.home-wrap header .mobile-nav-toggle.is-open span:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle.is-open span:before {$/;"	function	line:756
+.home-wrap .mobile-nav	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.home-wrap .mobile-nav {$/;"	function	line:760
+.home-wrap .mobile-nav a	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap .mobile-nav a {$/;"	function	line:770
+.home-wrap .mobile-nav a:hover, .home-wrap .mobile-nav a:active	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap .mobile-nav a:hover, .home-wrap .mobile-nav a:active {$/;"	function	line:772
+.home-wrap .mobile-nav ul	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap .mobile-nav ul {$/;"	function	line:774
+.home-wrap .mobile-nav li	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap .mobile-nav li {$/;"	function	line:778
+@media (max-width: 775px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^@media (max-width: 775px) {$/;"	function	line:782
+.home-wrap header	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-wrap header {$/;"	function	line:783
+.home-wrap header .header-position	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .header-position {$/;"	function	line:786
+.home-wrap header .site-nav	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .site-nav,$/;"	function	line:801
+.home-wrap header .email-link	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .email-link {$/;"	function	line:802
+.home-wrap header .logo	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .logo {$/;"	function	line:804
+.home-wrap header .mobile-nav-toggle	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav-toggle {$/;"	function	line:806
+.home-wrap header .mobile-nav.is-open	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap header .mobile-nav.is-open {$/;"	function	line:811
+section.about	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^section.about {$/;"	function	line:816
+section.about .col-1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.about .col-1 {$/;"	function	line:822
+@media (max-width: 650px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 650px) {$/;"	function	line:827
+section.about .col-1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.about .col-1 {$/;"	function	line:828
+section.about h2	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.about h2 {$/;"	function	line:831
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:839
+section.about h2	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.about h2 {$/;"	function	line:840
+section.about p	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.about p {$/;"	function	line:845
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:849
+section.about p	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.about p {$/;"	function	line:850
+section.about .lead	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.about .lead {$/;"	function	line:855
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:857
+section.about .lead	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.about .lead {$/;"	function	line:858
+section.brief	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^section.brief {$/;"	function	line:864
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  @media (max-width: 640px) {$/;"	function	line:870
+section.brief	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.brief {$/;"	function	line:871
+section.brief .captionphoto	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.brief .captionphoto {$/;"	function	line:873
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:884
+section.brief .captionphoto	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.brief .captionphoto {$/;"	function	line:885
+section.brief .intro	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.brief .intro {$/;"	function	line:887
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:892
+section.brief .intro	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.brief .intro {$/;"	function	line:893
+section.brief h2	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.brief h2 {$/;"	function	line:898
+@media (max-width: 650px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 650px) {$/;"	function	line:902
+section.brief h2	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.brief h2 {$/;"	function	line:903
+section.brief p	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.brief p {$/;"	function	line:906
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:910
+section.brief p	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.brief p {$/;"	function	line:911
+section.brief .col-1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.brief .col-1 {$/;"	function	line:916
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:936
+section.brief .col-1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.brief .col-1 {$/;"	function	line:937
+section.brief .col-1:last-child	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^        section.brief .col-1:last-child {$/;"	function	line:941
+section.mentoring	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^section.mentoring {$/;"	function	line:944
+section.mentoring .home-cta	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .home-cta {$/;"	function	line:951
+section.mentoring .home-lead	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .home-lead {$/;"	function	line:953
+section.mentoring .faces	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .faces {$/;"	function	line:956
+section.mentoring .faces.launched	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.mentoring .faces.launched {$/;"	function	line:963
+section.mentoring .face	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .face {$/;"	function	line:965
+section.mentoring .face.back-btn	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.mentoring .face.back-btn {$/;"	function	line:975
+section.mentoring .bubble	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .bubble {$/;"	function	line:979
+section.mentoring .face.has-bubble-open .bubble	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .face.has-bubble-open .bubble {$/;"	function	line:997
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^@media (max-width: 640px) {$/;"	function	line:1002
+section.mentoring .faces	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .faces {$/;"	function	line:1003
+section.mentoring .face	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .face {$/;"	function	line:1008
+section.mentoring .face.back-btn	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.mentoring .face.back-btn {$/;"	function	line:1011
+section.mentoring .bubble	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .bubble {$/;"	function	line:1013
+section.articles	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^section.articles {$/;"	function	line:1019
+.home-sections section.articles	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-sections section.articles {$/;"	function	line:1022
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:1024
+.home-sections section.articles	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      .home-sections section.articles {$/;"	function	line:1025
+section.articles .col-1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.articles .col-1 {$/;"	function	line:1027
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:1036
+section.articles .col-1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.articles .col-1 {$/;"	function	line:1037
+section.articles .home-cta	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.articles .home-cta {$/;"	function	line:1039
+section.articles .article-wrap::after	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.articles .article-wrap::after {$/;"	function	line:1042
+section.articles .article-thumb	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.articles .article-thumb {$/;"	function	line:1046
+section.articles .article-thumb.is-visible	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.articles .article-thumb.is-visible {$/;"	function	line:1059
+section.articles .article-thumb.is-emph	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.articles .article-thumb.is-emph {$/;"	function	line:1063
+section.articles .article-thumb:after	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.articles .article-thumb:after {$/;"	function	line:1071
+section.articles .article-meta	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.articles .article-meta {$/;"	function	line:1075
+section.articles .article-meta .name	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.articles .article-meta .name {$/;"	function	line:1089
+section.articles .article-meta .date	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.articles .article-meta .date {$/;"	function	line:1092
+section.articles .article-thumb:hover .article-meta	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.articles .article-thumb:hover .article-meta {$/;"	function	line:1094
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  @media (max-width: 640px) {$/;"	function	line:1098
+section.articles .desc-wrap	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.articles .desc-wrap {$/;"	function	line:1099
+@media (max-width: 999px) and (min-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  @media (max-width: 999px) and (min-width: 640px) {$/;"	function	line:1102
+section.articles .article-thumb	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.articles .article-thumb {$/;"	function	line:1103
+@-webkit-keyframes tada	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^@-webkit-keyframes tada {$/;"	function	line:1106
+0%	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  0% {$/;"	function	line:1107
+10%, 20%	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  10%, 20% {$/;"	function	line:1110
+30%, 50%, 70%, 90%	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  30%, 50%, 70%, 90% {$/;"	function	line:1113
+40%, 60%, 80%	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  40%, 60%, 80% {$/;"	function	line:1116
+100%	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  100% {$/;"	function	line:1119
+@keyframes tada	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^@keyframes tada {$/;"	function	line:1123
+0%	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  0% {$/;"	function	line:1124
+10%, 20%	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  10%, 20% {$/;"	function	line:1127
+30%, 50%, 70%, 90%	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  30%, 50%, 70%, 90% {$/;"	function	line:1130
+40%, 60%, 80%	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  40%, 60%, 80% {$/;"	function	line:1133
+100%	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  100% {$/;"	function	line:1136
+section.vine	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^section.vine {$/;"	function	line:1140
+section.vine iframe	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.vine iframe {$/;"	function	line:1145
+section.vine .home-cta	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.vine .home-cta {$/;"	function	line:1147
+section.vine .description	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.vine .description {$/;"	function	line:1149
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  @media (max-width: 640px) {$/;"	function	line:1158
+section.vine .col-1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.vine .col-1 {$/;"	function	line:1159
+section.vine .description	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.vine .description {$/;"	function	line:1161
+.home-sections .design	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.home-sections .design {$/;"	function	line:1164
+section.design	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^section.design {$/;"	function	line:1167
+section.design .home-lead	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.design .home-lead {$/;"	function	line:1169
+section.design .dribbble, section.design .behance	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.design .dribbble, section.design .behance {$/;"	function	line:1172
+section.design .dribbble.behance, section.design .behance.behance	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.design .dribbble.behance, section.design .behance.behance {$/;"	function	line:1179
+section.design .dribbble.behance .home-cta, section.design .behance.behance .home-cta	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.design .dribbble.behance .home-cta, section.design .behance.behance .home-cta {$/;"	function	line:1181
+section.design .home-cta	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.design .home-cta {$/;"	function	line:1183
+section.design .design-img-link	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.design .design-img-link {$/;"	function	line:1186
+section.design .design-img-link:hover	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.design .design-img-link:hover {$/;"	function	line:1195
+section.design .design-img-link img	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.design .design-img-link img {$/;"	function	line:1198
+section.design .cf	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.design .cf {$/;"	function	line:1201
+section.notes	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^section.notes {$/;"	function	line:1205
+section.notes .home-lead	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.notes .home-lead {$/;"	function	line:1210
+section.notes .col-1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.notes .col-1 {$/;"	function	line:1212
+section.notes .col-1:first-child	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.notes .col-1:first-child {$/;"	function	line:1217
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:1222
+section.notes .col-1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.notes .col-1 {$/;"	function	line:1223
+section.notes .col-1:first-child	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^        section.notes .col-1:first-child {$/;"	function	line:1225
+section.notes a	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.notes a {$/;"	function	line:1229
+section.notes ul	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.notes ul {$/;"	function	line:1232
+section.notes p	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.notes p {$/;"	function	line:1236
+section.notes .form-display	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.notes .form-display {$/;"	function	line:1238
+@media (max-width: 590px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 590px) {$/;"	function	line:1247
+section.notes .form-display	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.notes .form-display {$/;"	function	line:1248
+section.notes .form-display .mc-field-group	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.notes .form-display .mc-field-group {$/;"	function	line:1250
+section.notes .form-display .mc-field-group:first-child	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.notes .form-display .mc-field-group:first-child {$/;"	function	line:1256
+@media (max-width: 590px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^        @media (max-width: 590px) {$/;"	function	line:1258
+section.notes .form-display .mc-field-group:first-child	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^          section.notes .form-display .mc-field-group:first-child {$/;"	function	line:1259
+section.notes .form-display input	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.notes .form-display input {$/;"	function	line:1262
+section.notes .form-display input:focus	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.notes .form-display input:focus {$/;"	function	line:1272
+section.notes .form-display input[type="submit"]	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.notes .form-display input[type="submit"] {$/;"	function	line:1274
+section.notes .form-display label	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.notes .form-display label {$/;"	function	line:1283
+section.podcast	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^section.podcast {$/;"	function	line:1289
+section.podcast .home-lead	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.podcast .home-lead {$/;"	function	line:1294
+section.podcast .podcast-content	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.podcast .podcast-content {$/;"	function	line:1296
+@media (max-width: 400px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 400px) {$/;"	function	line:1302
+section.podcast .podcast-content	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.podcast .podcast-content {$/;"	function	line:1303
+section.podcast .podcast-content .podcast-thumb	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^        section.podcast .podcast-content .podcast-thumb {$/;"	function	line:1306
+section.podcast .podcast-thumb	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.podcast .podcast-thumb {$/;"	function	line:1308
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:1310
+section.podcast .podcast-thumb img	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.podcast .podcast-thumb img {$/;"	function	line:1311
+section.podcast .podcast-text	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.podcast .podcast-text {$/;"	function	line:1314
+section.podcast .title	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.podcast .title {$/;"	function	line:1332
+section.podcast .web	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.podcast .web {$/;"	function	line:1336
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    @media (max-width: 640px) {$/;"	function	line:1339
+section.podcast .web	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^      section.podcast .web {$/;"	function	line:1340
+section.podcast .itunes	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.podcast .itunes {$/;"	function	line:1343
+.home-footer a	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.home-footer a {$/;"	function	line:1347
+@media (max-width: 895px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  @media (max-width: 895px) {$/;"	function	line:1357
+.home-footer a	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-footer a {$/;"	function	line:1358
+@media (max-width: 650px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  @media (max-width: 650px) {$/;"	function	line:1360
+.home-footer a	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-footer a {$/;"	function	line:1361
+@media (max-width: 450px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  @media (max-width: 450px) {$/;"	function	line:1363
+.home-footer a	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-footer a {$/;"	function	line:1364
+.home-footer a:hover	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-footer a:hover {$/;"	function	line:1366
+section.member	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^section.member {$/;"	function	line:1369
+section.member .home-cta	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.member .home-cta {$/;"	function	line:1375
+section.member .home-lead	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.member .home-lead {$/;"	function	line:1377
+section.member .faces	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.member .faces {$/;"	function	line:1379
+section.member .faces.launched	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.member .faces.launched {$/;"	function	line:1386
+section.member .face	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.member .face {$/;"	function	line:1388
+section.member .face.back-btn	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.member .face.back-btn {$/;"	function	line:1398
+section.member .bubble	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.member .bubble {$/;"	function	line:1402
+section.member .face.has-bubble-open .bubble	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.member .face.has-bubble-open .bubble {$/;"	function	line:1420
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^@media (max-width: 640px) {$/;"	function	line:1425
+section.mentoring .faces	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .faces {$/;"	function	line:1426
+section.mentoring .face	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .face {$/;"	function	line:1431
+section.mentoring .face.back-btn	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    section.mentoring .face.back-btn {$/;"	function	line:1434
+section.mentoring .bubble	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.mentoring .bubble {$/;"	function	line:1436
+section.atalas	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^section.atalas {$/;"	function	line:1442
+section.atalas .home-cta	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.atalas .home-cta {$/;"	function	line:1447
+section.atalas p	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.atalas p {$/;"	function	line:1450
+section.atalas .home-lead	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.atalas .home-lead {$/;"	function	line:1452
+section.atalas .mapshot	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  section.atalas .mapshot {$/;"	function	line:1454
+.home-wrap	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.home-wrap {$/;"	function	line:1468
+@media (max-width: 775px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  @media (max-width: 775px) {$/;"	function	line:1474
+.home-wrap	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-wrap {$/;"	function	line:1475
+.home-sections	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.home-sections {$/;"	function	line:1478
+.home-sections section	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-sections section {$/;"	function	line:1483
+.home-sections .flex	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-sections .flex {$/;"	function	line:1485
+.home-sections .flex--center	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-sections .flex--center {$/;"	function	line:1490
+.home-sections .flex--space-around	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-sections .flex--space-around {$/;"	function	line:1495
+.home-sections .order-first	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-sections .order-first {$/;"	function	line:1499
+.col-1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.col-1 {$/;"	function	line:1505
+.push-right	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.push-right {$/;"	function	line:1510
+.col-2	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.col-2 {$/;"	function	line:1513
+.col-50	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.col-50 {$/;"	function	line:1519
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^@media (max-width: 640px) {$/;"	function	line:1522
+.home-sections .flex	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-sections .flex {$/;"	function	line:1523
+.col-1	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .col-1 {$/;"	function	line:1525
+.col-50	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .col-50 {$/;"	function	line:1527
+.push-right	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .push-right {$/;"	function	line:1529
+.home-lead	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.home-lead {$/;"	function	line:1532
+.home-lead.outdented	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-lead.outdented {$/;"	function	line:1535
+@media (max-width: 640px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^@media (max-width: 640px) {$/;"	function	line:1538
+.home-lead	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .home-lead {$/;"	function	line:1539
+.home-lead.outdented	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .home-lead.outdented {$/;"	function	line:1541
+.article-index-wrap	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.article-index-wrap {$/;"	function	line:1544
+.article-index-wrap article	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .article-index-wrap article {$/;"	function	line:1548
+.article-index-wrap article .name	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .article-index-wrap article .name {$/;"	function	line:1550
+.article-index-wrap article .date	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .article-index-wrap article .date {$/;"	function	line:1552
+@media (max-width: 620px)	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  @media (max-width: 620px) {$/;"	function	line:1554
+.article-index-wrap h2	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^    .article-index-wrap h2 {$/;"	function	line:1555
+.article-index-back-to-home-link	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.article-index-back-to-home-link {$/;"	function	line:1558
+.article-index-back-to-home-link:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .article-index-back-to-home-link:before {$/;"	function	line:1571
+.article-index-back-to-home-link span	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .article-index-back-to-home-link span {$/;"	function	line:1573
+.home-section.stylemap	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.home-section.stylemap {$/;"	function	line:1581

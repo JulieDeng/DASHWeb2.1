@@ -7,7 +7,7 @@
               <ul>
                   <li><a href="about.php">About</a>
                   </li>
-                  <li><a href="map.php">Atalas</a>
+                  <li><a href="map.php">Atlas</a>
                   </li>
                   <li><a href="team.php">Team</a>
                   </li>
@@ -23,8 +23,8 @@
     <section id="about" class="about">
         <div class="flex flex--center">
             <div class="col-1 push-right">
-                <h2>DASH</h2>
-                <p class="home-lead">into the ancient civilization...</p>
+                <h3>Database of Archaeological Sites in the Holocene</h3>
+                <p class="home-lead"><i>Beta Version</i></p>
             </div>
         </div>
     </section>

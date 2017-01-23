@@ -12,7 +12,7 @@
               <ul>
                   <li><a href="index.php">About</a>
                   </li>
-                  <li><a href="map.php">Atalas</a>
+                  <li><a href="map.php">Atlas</a>
                   </li>
                   <li><a href="team.php">Team</a>
                   </li>

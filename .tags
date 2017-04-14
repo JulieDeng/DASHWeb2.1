@@ -394,3 +394,10 @@ section.atalas .mapshot	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  sect
 .article-index-back-to-home-link:before	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .article-index-back-to-home-link:before {$/;"	function	line:1571
 .article-index-back-to-home-link span	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^  .article-index-back-to-home-link span {$/;"	function	line:1573
 .home-section.stylemap	/Applications/MAMP/htdocs/Web2.1/css/master.css	/^.home-section.stylemap {$/;"	function	line:1581
+servername	/Applications/MAMP/htdocs/DASHWeb2.1/get_data.php	/^$servername = "localhost";$/;"	variable	line:2
+username	/Applications/MAMP/htdocs/DASHWeb2.1/get_data.php	/^$username = "root";$/;"	variable	line:3
+password	/Applications/MAMP/htdocs/DASHWeb2.1/get_data.php	/^$password = "123";$/;"	variable	line:4
+dbname	/Applications/MAMP/htdocs/DASHWeb2.1/get_data.php	/^$dbname = "sampleDB";$/;"	variable	line:5
+conn	/Applications/MAMP/htdocs/DASHWeb2.1/get_data.php	/^$conn = new mysqli($servername, $username, $password, $dbname);$/;"	variable	line:7
+sql	/Applications/MAMP/htdocs/DASHWeb2.1/get_data.php	/^$sql = "SELECT * FROM testTable";$/;"	variable	line:12
+result	/Applications/MAMP/htdocs/DASHWeb2.1/get_data.php	/^$result = $conn->query($sql);$/;"	variable	line:13

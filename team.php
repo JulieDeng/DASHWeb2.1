@@ -44,13 +44,9 @@
                       <p><span>David Schönholzer</span><br>David is a PhD candidate in economics at UC Berkeley. His research is centered around questions about the causes of efficient public goods delivery by ancient and modern states. </p>
                     </div>
                 </li>
-                <li style="background-image: url(img/testimonial-avatars/joey.jpg);" class="face">
+                <li style="background-image: url(img/testimonial-avatars/headshots.jpg);" class="face">
                     <div class="bubble">
                       <p><span>Current Research Assistants</span><br>Yunhao Jerry Zhang, Ahmad Ahmadian, Julie Deng, Lingjie Qiao, Anoop Krishna Baliga, Sasank Chaganty.</p>
-                    </div>
-                </li>
-                <li style="background-image: url(img/testimonial-avatars/andrew.jpg);" class="face">
-                    <div class="bubble">
                       <p><span>Former Research Assistants</span><br>Xiaochen Yang, Xioaqian Zhu, Piotr Le, Sara Hidayatullah, Chuyin Betty Zhu, Alison Lenci.</p>
                     </div>
                 </li>

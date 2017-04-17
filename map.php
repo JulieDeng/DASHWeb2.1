@@ -59,7 +59,6 @@
 
 
 
-============================= above is php version ======================
 
 <!DOCTYPE html>
 <html>
@@ -71,10 +70,31 @@
     <link href='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet' />
     <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
     <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
+   <link rel="stylesheet" href="css/master.css">
     <style>
         /*body { margin:0; padding:0; }*/
-        .stylemap { position:absolute; top:0; bottom:0; width:100%; }
+        .stylemap { position:absolute; top:0; bottom:0;left:10%; width:100%; }
     </style>
+    <div class="home-wrap">
+      <header>
+          <div class="header-position">
+              <h1 class="logo">RISC</h1>
+              <nav class="site-nav">
+                  <ul>
+                      <li><a href="index.php">About</a>
+                      </li>
+                      <li><a href="map.php">Atlas</a>
+                      </li>
+                      <li><a href="team.php">Team</a>
+                      </li>
+                      <li><a href="#contact">Contact</a>
+                      </li>
+                  </ul>
+              </nav><a href="mailto:david.s@econ.berkeley.edu" class="email-link">+email us</a>
+              <div class="mobile-nav-toggle"><span></span>
+              </div>
+          </div>
+      </header>
 </head>
 <!-- <body> -->
 

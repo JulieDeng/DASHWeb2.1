@@ -28,7 +28,7 @@
           <div class="flex flex--center">
               <div class="col-1 push-right">
                   <h2 style="font-size:40px">Database of Archaeological Sites in the Holocene</h2>
-                  <p class="home-lead"><i>Beta Version</i></p>
+                  <p class="home-lead"><i>First Version</i></p>
               </div>
           </div>
       </section>
